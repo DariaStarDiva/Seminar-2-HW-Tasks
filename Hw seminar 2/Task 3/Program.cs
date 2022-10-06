@@ -24,6 +24,6 @@ if (n<100)
     else
  {
     for(n = n; n>=1000; n = n/10);
-  Console.WriteLine (n);
+ 
   Console.WriteLine (n = n%10);
 }
